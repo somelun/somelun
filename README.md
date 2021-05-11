@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there
+🌱 I’m currently learning [Zig programming language](https://github.com/ziglang/zig) by making [NES emulator](https://github.com/somelun/nes-oddity)
 
 <!--
 **somelun/somelun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
